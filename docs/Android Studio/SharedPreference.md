@@ -27,7 +27,8 @@ There is a limit to what we can store in SharedPreferences out of the box. In ot
 -   long.
 -   float.
 -   string.
--   stringSet.
+-   stringSet. 
+	- [android - Setting and fetching a StringSet from SharedPreferences? - Stack Overflow](https://stackoverflow.com/questions/29195164/setting-and-fetching-a-stringset-from-sharedpreferences)
 -   custom data structure (with some workaround)
 ---
 [Sharedpreferences In Fragment With Code Examples](https://www.folkstalk.com/2022/09/sharedpreferences-in-fragment-with-code-examples.html)
@@ -43,3 +44,9 @@ Kotlin版中文教學
 
 [android - How to implement sharedPreferences in a Fragment in Kotlin - Stack Overflow](https://stackoverflow.com/questions/70575052/how-to-implement-sharedpreferences-in-a-fragment-in-kotlin)
 在Fragment中使用
+
+
+為什麼使用editor.commit()會警告說要改editor.apply()?
+[SharedPreferences 的commit和apply分析_碎格子的博客-CSDN博客_sharedpreferences.apply](https://blog.csdn.net/u010198148/article/details/51706483)
+
+
