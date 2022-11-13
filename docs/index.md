@@ -1,4 +1,6 @@
 # 首頁 
-obsidian 筆記發布
+eikoSarah 的 obsidian 筆記發布。
+# 主題
+## Android Studio
+[[Preference]]
 
-eikoSarah
